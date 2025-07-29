@@ -12,7 +12,7 @@ A simple and efficient URL Shortener application. This project allows users to s
 
 ## Screenshot
 
-
+![Screenshot](/URL.png)
 
 ## License
 
