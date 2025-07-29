@@ -4,11 +4,11 @@ A simple and efficient URL Shortener application. This project allows users to s
 
 ## Features
 
-🔐 Shorten long URLs with ease
-🔢 Redirect to original URLs using short codes
-🔡 Track usage statistics (clicks, creation date, etc.)
-🕒 RESTful API endpoints for integration
-🛡️ Simple and intuitive interface
+- 🔐 Shorten long URLs with ease
+- 🔢 Redirect to original URLs using short codes
+- 🔡 Track usage statistics (clicks, creation date, etc.)
+- 🕒 RESTful API endpoints for integration
+- 🛡️ Simple and intuitive interface
 
 ## Screenshot
 
